@@ -23,7 +23,6 @@
 - **Spring Web**
 - **OpenWeatherMap API**
 - **MySQL**
-- **MapStruct**
 - **Spring Cache (Caffeine)**
 - **Lombok**
 - **Maven**
