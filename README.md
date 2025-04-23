@@ -32,5 +32,5 @@
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/sport-time-clima.git
+git clone https://github.com/tu-usuario/sport-time-api.git
 cd sport-time-clima
