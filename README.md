@@ -1,6 +1,6 @@
 # 🌤️ Sport Time
 
-**Sport Time Clima** es una plataforma web que recomienda actividades deportivas diarias en función del clima de tu ciudad, usando datos en tiempo real de la API de [OpenWeatherMap](https://openweathermap.org/).
+**Sport Time** es una plataforma web que recomienda actividades deportivas diarias en función del clima de tu ciudad, usando datos en tiempo real de la API de [OpenWeatherMap](https://openweathermap.org/).
 
 ## 🚀 Características
 
